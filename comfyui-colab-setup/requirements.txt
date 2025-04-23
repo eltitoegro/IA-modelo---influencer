@@ -2,3 +2,8 @@ transformers
 safetensors
 numpy==1.26.4
 cloudflared
+torch==2.6.0+cu124
+numpy==1.26.0
+pyngrok
+comfyui-frontend-package==1.16.9
+
